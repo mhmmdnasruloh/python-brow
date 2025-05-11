@@ -1,2 +1,2 @@
-# python-brow
+# project python
 this is my python journey
