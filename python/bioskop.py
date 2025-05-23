@@ -24,7 +24,8 @@ if film in [1,2,6] and usia <18 :
     print(f"maaf {nama}, {hasil_usia} untuk menonton film 18 + ini")
 elif film in [3,4,5] and usia >= 18 :
     print(f"{nama}, {hasil_usia} untuk menonton film ini")
-
+elif film in [3,4,5] and usia <18 :
+    print(f"{nama}, {hasil_usia} untuk menonton film ini")
 
 
 
